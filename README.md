@@ -2,5 +2,7 @@
 
 Miles Berman   
 Connor Green  
-Jackson Nadler-Block
+Jackson Nadler-Block  
+  
+Play: https://mbermanucsc.github.io/s7Gameplay/
 
